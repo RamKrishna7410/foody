@@ -1,5 +1,3 @@
-<div align="center">
-
 <img src="logo.png" alt="Foody Logo" width="70" />
 
 # **Foody** — Restaurant Management Platform
@@ -13,8 +11,6 @@
 [![CI](https://github.com/RanitManik/foody/actions/workflows/ci.yml/badge.svg)](https://github.com/RanitManik/foody/actions/workflows/ci.yml)
 [![CodeQL](https://github.com/RanitManik/foody/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/RanitManik/foody/actions/workflows/codeql-analysis.yml)
 [![codecov](https://codecov.io/gh/RanitManik/foody/branch/main/graph/badge.svg)](https://codecov.io/gh/RanitManik/foody)
-
-</div>
 
 A comprehensive restaurant operations management platform implementing role-based access control with restaurant-based restrictions, designed as a solution for restaurant owners and managers to efficiently run their business operations.
 
